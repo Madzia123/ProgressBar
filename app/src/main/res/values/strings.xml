@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">AsynTask</string>
+    <string name="text">Nowe odliczanie nastąpi za :</string>
 </resources>
